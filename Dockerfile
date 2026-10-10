@@ -27,3 +27,5 @@ RUN composer install --no-dev --optimize-autoloader --no-interaction \
     && chmod -R 775 storage bootstrap/cache
 
 EXPOSE 80
+
+CMD ["apache2-foreground"]
