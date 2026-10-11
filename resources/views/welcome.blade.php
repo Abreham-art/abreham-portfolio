@@ -395,8 +395,14 @@
         registration management.
     </p>
     <span class="tag">PHP · Laravel · MySQL</span>
-    <a class="project-link"
-       href="#contact">Ask about this project ↗</a>
+    ```html
+<a class="project-link"
+   href="https://github.com/Abreham-art/student-registrar-system"
+   target="_blank"
+   rel="noopener noreferrer">
+   View Source Code on GitHub ↗
+</a>
+```
 </article>
 
 
